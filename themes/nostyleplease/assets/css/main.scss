@@ -15,9 +15,9 @@
 body[a="dark"] { @include dark-appearance; }
 
 
-@media (prefers-color-scheme: dark) {
-  body[a="auto"] { @include dark-appearance; }
-}
+// @media (prefers-color-scheme: dark) {
+//  body[a="auto"] { @include dark-appearance; }
+//}
 // -------------------------------------------- //
 
 // bg color is also needed in html in order to
@@ -86,7 +86,8 @@ hr {
 pre {
   background: black;
   padding: 1em;
-  overflow-x: auto; /* Fix pre content overflowing parent without scroll bar */
+  overflow-x: auto;
+  border-radius: .5rem; /* Fix pre content overflowing parent without scroll bar */
 }
 
 table { width: 100%; }
@@ -99,7 +100,7 @@ table, th, td {
 
 code {
   color: white;
-  background: black; 
+  // background: black; 
   font-size: 80%;
   padding: 0.1em 0.2em;
   font-size: 90%;
