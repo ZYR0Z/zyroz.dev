@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>zyroz. </title>
+    <link>http://example.org/</link>
+    <description>Recent content on zyroz. </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 19 Aug 2023 12:43:36 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>basic concepts of a compiler</title>
+      <link>http://example.org/posts/compiler-explained/</link>
+      <pubDate>Sat, 19 Aug 2023 12:43:36 +0200</pubDate>
+      
+      <guid>http://example.org/posts/compiler-explained/</guid>
+      <description>What is a Compiler? A Compiler is like a machine, which turns high-level, human-readable code into binray code. At its core, a compiler is a software tool that takes your source code written in a high-level programming language (like Python, Java, or C++) and converts it into a lower-level representation, usually machine code or assembly language. This process enables computers to execute your program&amp;rsquo;s instructions.
+Parts of a Compiler A compiler consists of several stages, each with a specific purpose:</description>
+    </item>
+    
+  </channel>
+</rss>
