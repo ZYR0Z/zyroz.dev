@@ -1,0 +1,21 @@
+[[entries]]
+title = "me"
+
+  [[entries.entries]]
+  title = "if you ask yourself, why this page is so minimalistic, use css for three years, then you will understand."
+
+  [[entries.entries]]
+  title = '<a href="https://github.com/zyr0z" target="_blank" rel="noopener noreferrer">github</a>'
+
+  [[entries.entries]]
+  title = "<a href='mailto:contact@zyroz.dev'>email</a>"
+
+[[entries]]
+title = "posts"
+
+  [entries.post_list]
+  limit = 7
+  show_more = true
+  show_more_text = "See all posts..."
+  show_more_url = "posts"
+
