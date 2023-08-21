@@ -5,6 +5,9 @@ title = "me"
   title = "if you ask yourself, why this page is so minimalistic, use css for three years, then you will understand."
 
   [[entries.entries]]
+  title = 'i started with js and css, now i am currently working on my own os (<a href="https://os.zyroz.dev" target="_blank" rel="noopener noreferrer">zOS</a>) using asm and c.'
+
+  [[entries.entries]]
   title = '<a href="https://github.com/zyr0z" target="_blank" rel="noopener noreferrer">github</a>'
 
   [[entries.entries]]
@@ -14,7 +17,7 @@ title = "me"
 title = "posts"
 
   [entries.post_list]
-  limit = 7
+  limit = 5
   show_more = true
   show_more_text = "See all posts..."
   show_more_url = "posts"
