@@ -1,7 +1,7 @@
 ---
 title: "How i created my own Rust compiler"
 date: 2023-08-19T15:55:04+02:00
-draft: false
+draft: true
 ---
 
 ### Introduction
